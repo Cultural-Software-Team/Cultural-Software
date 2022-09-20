@@ -20,7 +20,8 @@ El metodo que se tiene propuesto como el fin de lograr hacer una recopilacion, l
 * Vega Santiago 24009
 
 ## Fuentes de Datos
-[Formulario nacionalidades.csv.zip](https://github.com/Cultural-Software-Team/Cultural-Software/files/9603850/Formulario.nacionalidades.csv.zip)
+[Formulario nacionalidades (respuestas).csv](https://github.com/Cultural-Software-Team/Cultural-Software/files/9603922/Formulario.nacionalidades.respuestas.csv)
+
 
 ## Referencias 
 
