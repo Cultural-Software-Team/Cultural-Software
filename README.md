@@ -7,6 +7,7 @@ Actualmente en Zamorano comemos muchos carbohidratos, usualmente notamos un camb
 
 ## Metodo propuesto
 El metodo que se tiene propuesto como el fin de lograr hacer una recopilacion, la cual nos conducira a una comparacion de datos. Es por medio de encuentas a la comunidad estudiantil hacer la recoleccion de datos mas amplia posible. Con estos datos hacer un analisis determinado de en si la nacionalidad de los esrudaintes en campus es proporcional al peso de los mismos. 
+
 ## Integrantes 
 * Espinoza Maria 24285
 * Montoya Daniel 24016
