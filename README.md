@@ -1,5 +1,5 @@
 # Cultural-Software
-Proyecto con el fin de analizar datos entre la relacion peso y nacionalidad dentro de la poblacion estudiantil de Zamorano. 
+Proyecto con el fin de analizar datos entre la relacion peso y nacionalidad dentro de la poblacion estudiantil de Zamorano.
 
 ## Problema a Resolver 
 Actualmente en Zamorano comemos muchos carbohidratos, usualmente notamos un cambio de primer año a segundo año. Sin embargo, queremos exponer el peso promedio dentro de nuestros estudiantes así mismo con las facilidades con las herramientas del Excel. Optimizaremos automáticamente el análisis de datos y evaluar el prometió total de obesidad en el campus.
