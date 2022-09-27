@@ -4,7 +4,8 @@ Proyecto con el fin de analizar datos entre la relacion peso y nacionalidad dent
 ## Problema a Resolver: 
 Actualmente en Zamorano comemos muchos carbohidratos, usualmente notamos un cambio de primer año a segundo año. Sin embargo, queremos exponer el peso promedio dentro de nuestros estudiantes así mismo con las facilidades con las herramientas del Excel. Optimizaremos automáticamente el análisis de datos y evaluar el prometió total de obesidad en el campus.
 
-## Solucion: 
+## Solucion:
+En este Proyecto se utilizará el programa Python con la extensión de Panda para facilitar el análisis de datos recolectados de estudiantes zamoranos mediante una encuesta CSV.
 
 ## Metodo propuesto:
 El metodo que se tiene propuesto como el fin de lograr hacer una recopilacion, la cual nos conducira a una comparacion de datos. Es por medio de encuentas a la comunidad estudiantil hacer la recoleccion de datos mas amplia posible. Con estos datos hacer un analisis determinado de en si la nacionalidad de los esrudaintes en campus es proporcional al peso de los mismos. 
